@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+librosa
+tensorflow
+joblib
+soundfile
+python-multipart
+pydub
+ffmpeg-python
+matplotlib
